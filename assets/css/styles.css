@@ -161,4 +161,9 @@ header {
 	.imagen {
 		width: 85%;
 	}
+	.content main .opciones .lista_opciones .opcion .close {
+		font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+			'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+		color: #ef5285;
+	}
 }
